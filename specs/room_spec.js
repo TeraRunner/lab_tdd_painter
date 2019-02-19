@@ -24,6 +24,4 @@ describe("room", function() {
     assert.equal(room.painted, true);
   })
 
-
-
 });
